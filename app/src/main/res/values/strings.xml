@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WeAreFamily</string>
+    <string name="tv_loading">加载中…</string>
+    <string name="login_btn">登陆</string>
+    <string name="login_tv_register">手机注册</string>
+    <string name="login_tv_forgetPass">忘记密码</string>
+    <string name="login_edt_userName">手机号</string>
+    <string name="login_edt_userPass">密码</string>
+    <string name="tv_tips">手机号可作为登陆账号，是找回密码重要凭证</string>
+    <string name="btn_getSmsCode">获取验证码</string>
+    <string name="edt_smsCode">验证码</string>
+    <string name="login_edt_reuserPass">确认密码</string>
+    <string name="familyGuide_btn_share">分享</string>
+    <string name="familyGuide_tv_tips">体验全部功能请创建或者加入家庭</string>
+    <string name="familyGuide_edt_searchFamily">搜索家庭名</string>
+    <string name="familyGuide_tv_create">没有家庭？创建家庭</string>
+    <string name="test_familyGuide_banner_tip">广告图位置</string>
+    <string name="action_ok">OK</string>
+    <string name="home_family">e家</string>
+    <string name="home_notes">家备</string>
+    <string name="home_robot">图灵</string>
+    <string name="home_weather">天气</string>
+
+</resources>
